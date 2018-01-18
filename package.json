@@ -1,7 +1,7 @@
 {
-  "name": "heroku-node-62561095-2",
-  "description": "sample Node to Heroku app", 
-  "main": "server.js", 
+  "name": "heroku-node",
+  "description": "Our sample Node to Heroku app",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
@@ -10,4 +10,3 @@
     "express": "~4.9.8"
   }
 }
-
