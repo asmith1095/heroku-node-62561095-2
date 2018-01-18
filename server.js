@@ -6,7 +6,7 @@ var app = express();
 var port = process.env.PORT || 8080;
 
 
-app.set('view engin', 'ejs');
+app.set('view engine', 'ejs');
 
 app.use(express.static(heroku-node-62561095-2 + '/public'));
 
